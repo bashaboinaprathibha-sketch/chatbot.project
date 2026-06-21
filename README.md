@@ -1,2 +1,27 @@
 # chatbot.project
-This project is a rule-based chatbot developed using Python. It interacts with users using predefined conditions and responds accordingly. The chatbot uses if-else statements, loops, and string handling techniques. It demonstrates basic concepts of artificial intelligence and conversation systems.
+# Rule-Based Chatbot 🤖
+
+## Description
+This project is a simple rule-based chatbot developed using Python. 
+It responds to user inputs based on predefined conditions.
+
+## Features
+- Responds to greetings
+- Answers simple questions
+- Tells jokes
+- Displays current time
+- Exit option
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Open the file in VS Code
+2. Run chatbot.py
+3. Start chatting
+
+## Output
+(See screenshot.png)
+
+## Author
+Prathibha Bashaboina
