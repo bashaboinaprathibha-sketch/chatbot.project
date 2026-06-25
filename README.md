@@ -20,8 +20,5 @@ It responds to user inputs based on predefined conditions.
 2. Run chatbot.py
 3. Start chatting
 
-## Output
-(See screenshot.png)
-
 ## Author
 Prathibha Bashaboina
